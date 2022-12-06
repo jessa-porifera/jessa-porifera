@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Jessica Wang 
-- 👀 I’m interested in all things data
+- Hi, I’m Jessica Wang! 
+- I recently graduated with a MSc in Ecology from the University of Bern, Switzerland
+- 👀 I’m interested in all things data and looking to improve my coding skills and the reproducibility of R scripts
 - 📫 How to reach me: E-Mail wajessie[at]gmail.com
 
 <!---
