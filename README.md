@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jessica Wang! 
 - I recently graduated with a MSc in Ecology from the University of Bern, Switzerland
-- I’m interested in all things data and looking to improve my coding skills and the increasing their reproducibility 
+- I’m interested in all things data and looking to improve my coding skills and increase their reproducibility 
 - How to reach me: E-Mail wajessie[at]gmail.com
 
 <!---
