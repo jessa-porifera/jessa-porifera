@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jessica Wang // @jessa-porifera // MSc Ecology
+- 👋 Hi, I’m Jessica Wang 
 - 👀 I’m interested in all things data
 - 📫 How to reach me: E-Mail wajessie[at]gmail.com
 
